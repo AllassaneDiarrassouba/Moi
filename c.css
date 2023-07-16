@@ -1,0 +1,53 @@
+img{
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    position: relative;
+    left: 42%;
+    border-radius: 50%;
+    
+}
+h1{
+    padding-left: 32%;
+}
+h2{
+    position: relative;
+    left: 39%;
+}
+#email{
+    position: relative;
+    left: 20%;
+}
+#tel{
+position: relative;
+left: 50%;
+}
+
+body{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{ 
+   /* border-width: 2px;
+   border-style:initial;
+   border-color: black; */
+   
+}
