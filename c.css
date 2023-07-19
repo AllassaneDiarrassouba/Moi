@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+h1{
+    font-family: "Lato";
+}
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Raleway&display=swap');
+
+
+    
+
 img{
     height: 150px;
     width: 150px;
@@ -100,14 +109,15 @@ address{
     
 }
 main{
-    background: brown;
+    font-family: "Raleway";
+    background: #782221;
     position: absolute;
     margin-left: 10%;
     padding-right: 23%;
     padding-bottom: 20%;
 }
 .fdc{
-    
+    font-family: "Raleway";
     position: relative;
     right: -68%;
     bottom: 20%;
@@ -121,7 +131,7 @@ main{
     padding-right: 12%;
 }
 #formation >h1{
-    background-color: burlywood;
+    background-color: #dbc2a4;
     padding-left: 3%;
     margin-top: 1%;
     margin-right: -17%;
@@ -173,7 +183,7 @@ main{
     padding-left: 10%;
     color: black;
 }
-.propos{
+.propos{ 
     position: relative;
     right: -3%;
     text-indent: 8mm;
@@ -218,31 +228,3 @@ main{
     right: -48%;
     color: aliceblue;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
